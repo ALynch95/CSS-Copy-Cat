@@ -1,0 +1,91 @@
+/* * {
+    border: 1px solid red;
+}*/
+
+.all {
+    margin: 1em;
+    padding: 1em;
+}
+
+.background-img {
+    border-bottom-left-radius: 50%;
+    border-bottom-right-radius: 50%;
+    border-top-left-radius: 3%;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    z-index: -1;
+}
+
+.logo {
+    width: 10%;
+    float: left;
+}
+
+li {
+    text-decoration: none;
+    display: inline-block;
+    float: right;
+    text-decoration-line: none;
+    padding: 2em 3em;
+    position: relative;
+    font-size: 20px;
+}
+
+a:link {
+     text-decoration: none;
+    color: white; 
+}
+
+.btn-one {
+    color: white;
+    background-color: lightblue;
+    padding: 15px 32px;
+    border-radius: 5px;
+}
+
+.btn-two {
+    color: white;
+    background-color: pink;
+    padding: 15px 32px;
+    border-radius: 5px;
+}
+
+.btn-three {
+    color: blue;
+    background-color: lightblue;
+    padding: 15px 32px;
+    border-radius: 5px;
+}
+
+span {
+    font-size: 50px;
+    color: red;
+}
+
+h1 {
+    font-size: 25px;
+}
+
+.league {
+    background-color: rgb(28, 45, 166);
+    align-items: center;
+    margin: 0em 25em;
+    text-align: center;
+    color: white;
+    border-radius: 10px;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+.dynasty {
+    margin: 10em 0em 0em 0em;
+    height: 400px;
+    width: 30%;
+    text-align: left;
+    padding: 0em 0em 0em 5em;
+}
+
+a.btn-one:hover, a.btn-one:active {background: red;}
