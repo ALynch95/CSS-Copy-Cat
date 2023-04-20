@@ -88,4 +88,14 @@ h2 {
     padding: 0em 0em 0em 5em;
 }
 
-a.btn-one:hover, a.btn-one:active {background: red;}
+.btn-one:hover {
+    background: blue;
+}
+
+.btn-two:hover {
+    background: red;
+}
+
+.btn-three:hover {
+    background: lightgray;
+}
